@@ -3,7 +3,7 @@ Organizador de PDF simples que eu fiz para praticar programação na linguagem L
 
 Para utilizar-lo, bote os seus PDFs numa pasta chamada pdf, sem espaços ou caracteres especiais (remover esses restrição será o trabalho do eu do futuro) e execute o programa thaupdf.exe. O programa explica todas as etapas.
 
-Próximos passos:
+# Próximos passos:
 
 Retirar as restrições (ter que botar todos os PDFs na mesma pasta, os PDFs não podem ter nomes com espaços ou caracteres especiais);
 
